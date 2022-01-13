@@ -1,0 +1,11 @@
+[debug]
+Debug = 1
+[bot]
+Token =
+Prefix = %
+
+[foxbait]
+base_url = "something.stuff"
+rand_url_len = 5
+
+
